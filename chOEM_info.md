@@ -41,4 +41,8 @@ C:\Windows\System32
 
 色彩深度：32位
 
+## 參考資料
 
+https://kknews.cc/zh-tw/tech/l8abgm9.html
+
+https://answers.microsoft.com/zh-hans/windows/forum/all/%E8%AF%B7%E9%97%AEwindows/e0588617-856c-4779-90f3-5296104037ba
