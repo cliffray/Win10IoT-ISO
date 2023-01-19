@@ -1,0 +1,44 @@
+# Windows 更改 OEM 資訊
+
+## _Step 1 開啟註冊表_
+
+Win 鍵 + R 輸入 regedit 確定
+
+![登入註冊檔](image/OEM1.png)
+
+## _Step 2 搜索路徑_
+
+搜索路徑: 
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation
+
+![登入註冊檔](image/OEM2.png)
+
+## _Step 3 _ 新建字符串值_
+
+Manufacturer（製造商）
+
+Model（型號）
+
+SupportHours（售後時間）
+
+SupportPhone（售後電話）
+
+SupportURL（廠商網址）
+
+## _Step 4 _ Logo圖片製作。_
+
+新建 "logo" 字串
+
+添加圖片路徑
+```
+C:\Windows\System32
+```
+
+大小：120 x 120 像素
+
+格式：BMP
+
+色彩深度：32位
+
+
